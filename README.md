@@ -247,4 +247,4 @@ Original Hunyuan3D team at Tencent, and the Windows compatibility fixes develope
 
 ---
 
-**🪟 Windows users**: If you encounter issues not covered here, please open an issue with your system specifications and error logs. 
+<img width="14" height="14" alt="image" src="https://github.com/user-attachments/assets/341fc624-e03b-4934-b3a0-f96fa4f0deb6" />  **Windows users**: If you encounter issues not covered here, please open an issue with your system specifications and error logs. 
