@@ -1,6 +1,6 @@
 # Hunyuan3D 2.1 - Windows Compatible Version
 
-> **🪟 ** **This is a Windows-optimized version of Hunyuan3D 2.1** that addresses common compatibility issues on Windows systems, including fixes for DeepSpeed compatibility issues with the Windows environment, **custom_rasterizer** installation errors, **DifferentiableRenderer** installation errors, and environment-specific bugs.
+> <img width="14" height="14" alt="image" src="https://github.com/user-attachments/assets/341fc624-e03b-4934-b3a0-f96fa4f0deb6" />  **This is a Windows-optimized version of Hunyuan3D 2.1** that addresses common compatibility issues on Windows systems, including fixes for DeepSpeed compatibility issues with the Windows environment, **custom_rasterizer** installation errors, **DifferentiableRenderer** installation errors, and environment-specific bugs.
 
 ## 🛠️ Windows Installation Guide
 
