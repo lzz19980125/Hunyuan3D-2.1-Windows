@@ -4,7 +4,7 @@
 
 ## 🛠️ Windows Installation Guide
 
-We test our model on two 3090 GPU with Python 3.10 and PyTorch 2.5.1+cu124.
+We test our model on two 4090 GPUs with Python 3.10 and PyTorch 2.5.1+cu124.
 
 ### Prerequisites
 
