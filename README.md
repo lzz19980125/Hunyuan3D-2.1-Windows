@@ -237,14 +237,6 @@ python gradio_app.py --model_path tencent/Hunyuan3D-2.1 --subfolder hunyuan3d-di
 |----------|------|-------------|
 | Original Repo | [Hunyuan3D-2.1](https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1) | Official repository |
 
-## ⚖️ License
-
-This project follows the original Hunyuan3D license. The Windows compatibility modifications are provided as-is for community use.
-
-## 🙏 Acknowledgements
-
-Original Hunyuan3D team at Tencent, and the Windows compatibility fixes developed through community collaboration and testing.
-
 ---
 
 <img width="14" height="14" alt="image" src="https://github.com/user-attachments/assets/341fc624-e03b-4934-b3a0-f96fa4f0deb6" />  **Windows users**: If you encounter issues not covered here, please open an issue with your system specifications and error logs. 
